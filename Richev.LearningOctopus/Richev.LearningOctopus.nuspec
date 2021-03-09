@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Richev.LearningOctopus</id>
+    <title>Richard's application</title>
+    <version>1.0.0</version>
+    <authors>Richard</authors>
+    <owners>Richard</owners>
+    <licenseUrl>http://yourcompany.com</licenseUrl>
+    <projectUrl>http://yourcompany.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Learning Octopus</description>
+    <releaseNotes>Foo bar</releaseNotes>
+  </metadata>
+</package>
